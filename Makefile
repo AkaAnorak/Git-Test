@@ -4,7 +4,7 @@ DEBUG = -g
 
 CFLAGS = -Wall $(DEBUG)
 
-TARGET = Hello_World
+TARGET = main
 
 OBJFILES = main.cpp 
 
