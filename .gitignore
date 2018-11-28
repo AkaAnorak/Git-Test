@@ -1,4 +1,5 @@
 # Ignore any binaries and Emacs backups
 Hello_World
+main
 *.o
 *~
