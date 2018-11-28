@@ -1,0 +1,1 @@
+The purpose of this REPO is practicing with GIT. The commands used are not my own and should not be credited to me as such.
